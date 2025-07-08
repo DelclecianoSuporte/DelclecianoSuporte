@@ -1,6 +1,6 @@
 # Olá, seja bem vindo ao meu GitHub!!
 
-## 📚 Sobre me
+## 📚 Sobre mim
 Me chamo Delcleciano, mas todos me conhecem como Del. Estou no ramo da tecnologia desde 2014, quando iniciei minha graduação em Engenharia da Computação. Desde então, venho me especializando em tecnologias de desenvolvimento de software, com foco tanto no Front-End quanto no Back-End.
 
 Comecei com JavaScript, que foi a linguagem que me abriu as portas para o mercado de trabalho. A partir dela, aprendi frameworks como Angular e React, ampliando ainda mais meu leque de habilidades no desenvolvimento Front-End. Com o tempo, senti a necessidade de explorar o Back-End, pois muitas vezes era preciso conectar minhas interfaces web a APIs robustas. 
