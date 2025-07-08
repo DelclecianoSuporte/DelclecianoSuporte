@@ -1,17 +1,13 @@
 # Olá, seja bem vindo ao meu GitHub!!
 
-Me chamo Delcleciano, mas todos me conhecem como Del. Estou no ramo da tecnologia desde 2014, quando iniciei minha graduação em Engenharia da Computação. Desde então, me aprofundei cada vez mais na área de TI, onde tive contato com diversas tecnologias voltadas para linguagens de programação.
+Me chamo Delcleciano, mas todos me conhecem como Del. Estou no ramo da tecnologia desde 2014, quando iniciei minha graduação em Engenharia da Computação. Desde então, venho me especializando em tecnologias de desenvolvimento de software, com foco tanto no Front-End quanto no Back-End.
 
-Comecei com JavaScript, que foi a linguagem que me abriu as portas para o mercado de trabalho. A partir dela, aprendi frameworks como Angular e React, ampliando ainda mais meu leque de habilidades no desenvolvimento Front-End.
-
-Com o tempo, senti a necessidade de explorar o Back-End, pois muitas vezes era preciso conectar minhas interfaces web a APIs robustas. 
+Comecei com JavaScript, que foi a linguagem que me abriu as portas para o mercado de trabalho. A partir dela, aprendi frameworks como Angular e React, ampliando ainda mais meu leque de habilidades no desenvolvimento Front-End. Com o tempo, senti a necessidade de explorar o Back-End, pois muitas vezes era preciso conectar minhas interfaces web a APIs robustas. 
 Foi então que me aproximei das tecnologias C#, .NET e Entity Framework, que me permitiram desenvolver APIs poderosas. Essas soluções facilitaram a integração entre sistemas, automatizaram processos e resolveram desafios reais do dia a dia, como o controle eficiente de usuários, gerenciamento de dados.
 
 Além disso, também adquiri experiência com bancos de dados relacionais, como MySQL, SQL Server e PostgreSQL, o que me permitiu atuar com eficiência em bancos de dados relacionais.
 
-Já atuei como desenvolvedor Full Stack e tive a oportunidade de desenvolver projetos tanto na área de Front-End quanto Back-End, utilizando tecnologias de ambas as áreas. Apesar da experiência adquirida, reconheço que ainda há muito caminho pela frente. Estou sempre pesquisando as tecnologias do momento e desenvolvendo soluções que possam facilitar o dia a dia de usuários e empresas.
-
-Estou sempre em busca de novos desafios e procuro aprender continuamente para me destacar no mercado de TI. Um dos meus maiores objetivos é me tornar, futuramente, um desenvolvedor Full Stack Sênior. Com essa meta alcançada, pretendo ajudar outros desenvolvedores a crescerem profissionalmente, compartilhando conhecimentos e experiências.
+Meu objetivo é me tornar desenvolvedor Full Stack Sênior e, com isso, poder compartilhar conhecimento, apoiar a comunidade e contribuir com o crescimento de outros profissionais
 
 ## 💻 Skills
 
