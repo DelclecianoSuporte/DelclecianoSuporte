@@ -8,7 +8,7 @@ Foi então que me aproximei das tecnologias C#, .NET e Entity Framework, que me 
 
 Além disso, também adquiri experiência com bancos de dados relacionais, como MySQL, SQL Server e PostgreSQL, o que me permitiu atuar com eficiência em bancos de dados relacionais.
 
-Meu objetivo é me tornar desenvolvedor Full Stack Sênior e, com isso, poder compartilhar conhecimento, apoiar a comunidade e contribuir com o crescimento de outros profissionais
+Meu objetivo é me tornar desenvolvedor Full Stack Sênior, e com isso, poder compartilhar conhecimento, apoiar a comunidade e contribuir com o crescimento de outros profissionais
 
 ## 💻 Skills
 
